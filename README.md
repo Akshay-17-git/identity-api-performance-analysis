@@ -59,15 +59,3 @@ International passport verifications have noticeably lower conversion rates comp
 
 ## Outcome
 The analysis highlights OCR accuracy and document quality as primary levers for improving verification success and reducing user drop-offs.
-
----
-
-## For Resume
-
-**Product Analytics Project – Identity Verification APIs**
-Analyzed API latency, OCR failures, and conversion drop-offs using SQL; proposed product optimizations to improve verification success rates.
-
-## For Interview
-
-"I looked at identity verification systems the way Bureau operates — APIs, OCR failures, and segment-level conversion."
-
