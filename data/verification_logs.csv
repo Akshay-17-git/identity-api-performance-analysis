@@ -1,0 +1,11 @@
+user_id,api_name,response_time_ms,status,failure_reason,document_type,country
+101,OCR_PAN,820,success,,PAN,India
+102,OCR_AADHAAR,1450,failure,ocr_error,Aadhaar,India
+103,FACE_MATCH,610,success,,Selfie,India
+104,OCR_PASSPORT,2100,failure,blurred_image,Passport,USA
+105,ADDRESS_VERIFY,480,success,,Utility_Bill,India
+106,OCR_AADHAAR,1600,failure,ocr_error,Aadhaar,India
+107,OCR_PAN,900,failure,system_timeout,PAN,India
+108,FACE_MATCH,720,success,,Selfie,India
+109,OCR_PASSPORT,1950,failure,ocr_error,Passport,UK
+110,ADDRESS_VERIFY,520,success,,Utility_Bill,India
